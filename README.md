@@ -1,5 +1,8 @@
 # Python
 
+### Python nohup
+
+https://blkcoding.blogspot.com/2018/03/nohup.html
 
 ### requirements.txt 만드는거
 
